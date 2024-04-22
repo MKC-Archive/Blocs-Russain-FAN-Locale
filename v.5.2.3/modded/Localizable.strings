@@ -678,6 +678,7 @@
 // Loading sheet Message
 "Blocs is working, this may take a few moments." = "Blocs сейчас занят, это может занять несколько минут.";
 "Project thumbnails are being updated, please wait." = "Снимки проекта обновляются, пожалуйста подождите.";
+"PDF being generated, please wait." = "Идет создание PDF-файла, пожалуйста, подождите.";
 "Begin Export" = "Начинается экспорт";
 "Generating Files" = "Генерирование файлов";
 "Finishing Up Export" = "Завершение экспорта";
@@ -716,8 +717,8 @@
 // Classes
 "A class with this name is already being used in this project." = "Класс с таким именем уже используется в этом проекте.";
 "Are you sure you would like to delete the %@ class? All elements in your project that currently use this class will be affected. Please note this change cannot be undone." = "Вы уверены, что хотите удалить класс %@? Все элементы в вашем проекте, которые в настоящее время используют этот класс, будут затронуты. Обратите внимание, что это изменение нельзя отменить.";
-"This class name can't be used." = "Это имя класса не может быть использовано.";
-"This class name can't be updated as it is currently locked." = "Это имя класса не может быть обновлено, так как в данный момент оно заблокировано.";
+"This class name can't be used." = "Этот класс не может быть использован.";
+"This class name can't be updated as it is currently locked." = "Этот класс не может быть обновлён, т.к. в данный момент он заблокирован.";
 
 "Are you sure you would like to delete all of the selected classes? All elements in your project that currently use these classes will be affected. Please note this change cannot be undone." = "Вы уверены, что хотите удалить все выбранные классы? Это повлияет на все элементы вашего проекта, которые в данный момент используют эти классы. Пожалуйста, обратите внимание, что это изменение не может быть отменено.";
 
@@ -735,12 +736,17 @@
 "Are you sure you would like to clear this %@ setting?" = "Вы уверены, что хотите убрать эту настройку: %@?";
 
 "Class Name" = "Имя Класса";
-"Subclass Lib" = "Библиотека"; // Check it. Adaptive it
+"Subclass Lib" = "Подкласс Lib"; // Check it
 "Subclasses allow you to style core Blocs pre-styled items." = "Подклассы позволяют стилизовать основные элементы, предварительно стилизованные под Blocs.";
-"View Subclass Guide" = "Просмотр руководства по подклассам"; // Check it
+"View Subclass Guide" = "Посмотреть руководство по подклассам";
 
 "The (%@) custom class has been added to your local class library." = "Пользовательский класс (%@) был добавлен в вашу локальную библиотеку классов.";
 "Upgrade to Blocs Plus to store more classes in the Class Library." = "Обновитесь до Blocs Plus для хранения большего количества классов в библиотеке классов.";
+
+// Locked Classes
+"Locked Class" = "Заблокированный класс ";
+"The custom class (%@) which is used to store the changes you are making is currently locked. Would you like to unlock it?" = "Пользовательский класс (%@), который используется для хранения вносимых вами изменений, в настоящее время заблокирован. Не хотите ли вы разблокировать его?";
+"Yes, unlock class" = "Да, разблокировать класс";
 
 // Remove Classes
 "Unused Classes" = "Неиспользуемые Классы";
@@ -827,7 +833,7 @@
 "No Selection" = "Не выбрано";
 "Transparent" = "Прозрачность";
 "Add new swatch." = "Добавить новый цвет.";
-"Remove Swatch Options." = "Убрать опции палитры."; // Check it
+"Remove Swatch Options." = "Удаление опций образцов ."; // Check it
 "Delete selected swatch" = "Удалить выбранную палитру";
 "Delete all unused swatches" = "Удалить все неиспользуемые палитры";
 "Edit Swatch" = "Изменить цвет";
@@ -1861,6 +1867,12 @@
 // Bloc Bar Search
 "%d Blocs Found" = "%d Blocs Найден";
 
+// Bloc and Bric Bar Search
+"Search Blocs" = "Найти Blocs";
+"Search Brics" = "Найти Brics";
+"Search Blocs, type @store to see latest Blocs from the Blocs Store." = "Поиск Blocs, введи @store чтобы увидеть последние Blocs из Blocs Store.";
+"Search Brics, type @store to see latest Brics from the Blocs Store." = "Поиск Brics, введи @store чтобы увидеть последние Brics из Blocs Store.";
+
 // Bloc Library
 "Delete Library" = "Удалить Библиотеку";
 "Are you sure you would like to delete the current Bloc library (%@)?" = "Вы уверены, что хотите удалить текущую Bloc-библиотеку (%@)?";
@@ -2302,6 +2314,7 @@
 "The framework this Bric supports and is recommended to be used with." = "Фреймворк, который поддерживает этот Bric, и который рекомендуется использовать с.";
 "This Bric may not function correctly with the current project framework." = "Этот Bric может работать некорректно с текущим фреймворком проекта.";
 "Get support from the developer." = "Получите поддержку от разработчика.";
+"This custom Bric is not installed." = "Этот кирпич не установлен.";
 
 // Migrate
 "Migrate" = "Мигрировать";
