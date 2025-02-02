@@ -717,8 +717,8 @@
 // Classes
 "A class with this name is already being used in this project." = "Класс с таким именем уже используется в этом проекте.";
 "Are you sure you would like to delete the %@ class? All elements in your project that currently use this class will be affected. Please note this change cannot be undone." = "Вы уверены, что хотите удалить класс %@? Все элементы в вашем проекте, которые в настоящее время используют этот класс, будут затронуты. Обратите внимание, что это изменение нельзя отменить.";
-"This class name can't be used." = "Этот класс не может быть использован.";
-"This class name can't be updated as it is currently locked." = "Этот класс не может быть обновлён, т.к. в данный момент он заблокирован.";
+"This class name can't be used." = "Это имя класса не может быть использован.";
+"This class name can't be updated as it is currently locked." = "Это имя класса не может быть обновлено, т.к. в данный момент он заблокирован.";
 
 "Are you sure you would like to delete all of the selected classes? All elements in your project that currently use these classes will be affected. Please note this change cannot be undone." = "Вы уверены, что хотите удалить все выбранные классы? Это повлияет на все элементы вашего проекта, которые в данный момент используют эти классы. Пожалуйста, обратите внимание, что это изменение не может быть отменено.";
 
