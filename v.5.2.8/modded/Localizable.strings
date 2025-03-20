@@ -615,6 +615,14 @@
 "Unused Assets" = "Неиспользуемое Вложение";
 "Blocs has identified the following assets as not being used. Please check the list carefully before you opt to remove these assets." = "Blocs определил следующие вложения как неиспользуемые. Пожалуйста, внимательно изучите список вложений, прежде чем принять решение об их удалении.";
 
+// Icon Manager
+"Are you sure you would like to delete this icon?" = "Вы уверены, что хотите удалить этот значок?";
+"Are you sure you would like to delete this icon set?" = "Вы уверены, что хотите удалить этот набор значков?";
+"Filter Icon Sets" = "Фильтр значков";
+"No Icons" = "Нет значков";
+"Drag some SVG icons here." = "Переместите SVG значок сюда.";
+"Are you sure you would like to import this SVG file into your Blocs icon library?" = "Вы уверены, что хотите импортировать этот SVG-файл в свою библиотеку иконок Blocs?";
+"Yes, Import" = "Да, импорт";
 
 // Screen Shot
 "Screen Shot" = "Снимок Экрана";
