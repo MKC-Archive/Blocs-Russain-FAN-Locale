@@ -141,8 +141,8 @@
 // Developer menu Items
 "Bric Builder" = "Конструктор модулей";
 "Bloc Editor" = "Редактор блоков";
-"Developer Console" = "Консоль разработчика";
-"Developer Inspector (Preview Mode)" = "Инспектор разработчика (Бета)"; // Check it (Бета)
+"Developer Console" = "Developer Console";
+"Developer Inspector (Preview Mode)" = "Developer Inspector (Preview Mode)";
 "Purge Project Data" = "Очистить Данные проекта";
 "Reset App Data" = "Сбросить Данные Приложения";
 "Reset Site Templates" = "Сбросить Шаблон Сайта";
@@ -195,8 +195,8 @@
 "Toggle Right" = "Вправо";
 
 // Text Insert Sub Menu
-"Header" = "Заголовок"; // Check it
-"Heading" = "Направление"; // Check it
+"Header" = "Header";
+"Heading" = "Heading";
 "Divider" = "Разделитель";
 
 // Purge Project Data Sub Menu
@@ -208,12 +208,12 @@
 "Clear All Custom Project Data" = "Очистить все данные проекта";
 
 // Context Menu Items
-"Select Parent" = "Выбрать родителя"; // Check it
+"Select Parent" = "Выбрать родителя"; 
 "Form" = "Формы";
 "Card" = "Карточки";
-"Card Head" = "Заголовки карточки"; // Check it
-"Card Body" = "Тело карточки"; // Check it
-"Card Footer" = "Тело Карточки"; // Check it
+"Card Head" = "Head карточки";
+"Card Body" = "Body карточки";
+"Card Footer" = "Footer Карточки";
 "List" = "Списки";
 "Alert" = "Уведомления";
 "Container Div" = "Div Контейнер";
@@ -240,7 +240,7 @@
 "To Dynamic Area" = "В Динамическую Зону";
 "Global" = "Глобально";
 "Slides" = "Слайды";
-"Data Feed" = "Подача данных"; // Check it
+"Data Feed" = "Data Feed";
 "Local" = "Локально";
 "Edit Original" = "Редактировать Оригинал";
 "Blocs Image Editor" = "Редактор Изображений Blocs";
@@ -250,13 +250,13 @@
 "XL - 100px" = "XL - 100px";
 "Shadow - Small" = "Тень - Маленькая";
 "Shadow - Large" = "Тень - Большая";
-"Pressed" = "Прессованный"; // Check it
-"Glow" = "Glow"; // Check it
+"Pressed" = "Прессованный";
+"Glow" = "Glow";
 "Square" = "Квадратный";
 "Rounded" = "Закруглённый";
 "Semi Rounded A" = "Полукруглый А";
 "Semi Rounded B" = "Полукруглый Б";
-"Gutter" = "Gutter"; // Check it
+"Gutter" = "Промежуток";
 "Edit Items" = "Редактировать Элементы";
 "Block" = "Блок";
 "Blog" = "Блог";
@@ -287,7 +287,7 @@
 "Add Icon" = "Добавить Иконку";
 "Fill" = "Заполнение";
 "Round" = "Закруглённый";
-"Corner" = "Corner"; // Check it
+"Corner" = "Угол";
 "Flat" = "Плоский";
 "Glossy" = "Глянцевый";
 "Wire" = "Контурный";
@@ -302,7 +302,7 @@
 "Inherit" = "Наследовать";
 "Wrap in span" = "Завернуть в Span";
 "Wrap in link" = "Сделать Ссылкой";
-"Justify" = "Justify"; // Check it
+"Justify" = "Выравнивание";
 "Page Description" = "Описание Страницы";
 "Page Title"  = "Заголовок Страницы";
 "Reset Height" = "Сброс Высоты";
@@ -529,17 +529,17 @@
 "Backgrounds" = "Фоны";
 "Patterns" = "Узоры";
 "Project Assets" = "Вложения Проекта";
-"Add new group..." = "Добавить новую группу..."; // Check it
-"Add New Group" = "Добавить Новую группу"; // Check it
+"Add new group..." = "Добавить новую группу...";
+"Add New Group" = "Добавить новую группу";
 "Group Name:" = "Имя Группы:";
-"Create Group" = "Создать Группу"; // Check it
+"Create Group" = "Создать Группу";
 "Enter a group name" = "Введите имя группы";
 "Select Groups" = "Выбрать группы";
 "New Group Name" = "Новое Имя Группы";
 "Remove From Group" = "Удалить Из Группы";
 "Rename Asset" = "Переименовать Вложение";
 "Asset Name:" = "Имя Вложения:";
-"String:" = "Строка:"; // Check it
+"String:" = "Строка:";
 "Separator:" = "Разделитель:";
 "Enter new asset name" = "Введите новое имя Вложения";
 "Asset name is already used, please use another." = "Это имя Вложения уже используется, пожалуйста используйте другое.";
@@ -548,8 +548,8 @@
 "Embed Asset In Project File" = "Добавление Вложений в Файл Проекта";
 "Domain:" = "Домен:";
 "%d Asset Found" = "Вложение %d не найдено";
-"%ld Assets Found" = "Вложение %ld найдено"; // Check it
-"%ld Found" = "%ld Найдено"; // Check it
+"%ld Assets Found" = "Вложение %ld найдено";
+"%ld Found" = "%ld Найдено";
 "Not Found" = "Не найдено";
 "Yes, remove group" = "Да, удалить группу";
 "Are you sure you would like to remove this group? All images will remain in main library but will no longer be grouped under %@." = "Вы уверены что хотите удалить эту группу? Все изображения остануться в Основной Библиотеке, но больше не будут сгруппированы в %@.";
@@ -602,12 +602,12 @@
 "Preview Video" = "Предпросмотр Видео";
 "Preview Audio" = "Предпросмотр Аудио";
 "Preview Doc" = "Предпросмотр Документа";
-"Light Tile Background" = "Светлый фон плиток"; // Check it
-"Dark Tile Background" = "Тёмный фон плиток"; // Check it
+"Light Tile Background" = "Светлый фон плиток";
+"Dark Tile Background" = "Тёмный фон плиток";
 "Open In Browser" = "Открыть В Браузере";
 
 // Unused Assets
-"%lu Unused Asset" = "%lu неиспользуемое вложение"; // Check it
+"%lu Unused Asset" = "%lu неиспользуемое вложение";
 "%lu Unused Assets" = "%lu неиспользуемых фложений";
 
 
@@ -744,7 +744,7 @@
 "Are you sure you would like to clear this %@ setting?" = "Вы уверены, что хотите убрать эту настройку: %@?";
 
 "Class Name" = "Имя Класса";
-"Subclass Lib" = "Подкласс Lib"; // Check it
+"Subclass Lib" = "Подкласс Lib";
 "Subclasses allow you to style core Blocs pre-styled items." = "Подклассы позволяют стилизовать основные элементы, предварительно стилизованные под Blocs.";
 "View Subclass Guide" = "Посмотреть руководство по подклассам";
 
@@ -761,8 +761,8 @@
 "Blocs has identified the following classes as not being used. Please check the list carefully before you opt to remove these classes." = "Blocs определил существующие классы как неиспользуемые. Пожалуйста, внимательно проверьте список, прежде чем вы решите удалить эти классы.";
 
 // Unused Classes
-"%lu Unused Class" = "%lu неиспользуемый класс"; // Check it
-"%lu Unused Classes" = "%lu неиспольуемых классов"; // Check it
+"%lu Unused Class" = "%lu неиспользуемый класс";
+"%lu Unused Classes" = "%lu неиспольуемых классов";
 
 
 // Free Hand Classes
@@ -841,7 +841,7 @@
 "No Selection" = "Не выбрано";
 "Transparent" = "Прозрачность";
 "Add new swatch." = "Добавить новый цвет.";
-"Remove Swatch Options." = "Удаление опций образцов ."; // Check it
+"Remove Swatch Options." = "Удалить параметры палитры.";
 "Delete selected swatch" = "Удалить выбранную палитру";
 "Delete all unused swatches" = "Удалить все неиспользуемые палитры";
 "Edit Swatch" = "Изменить цвет";
@@ -898,50 +898,50 @@
 "Rules" = "Правила";
 
 // Class Editor Labels
-"Min:" = "Min:";
-"Max:" = "Max:";
+"Min:" = "Мин:";
+"Max:" = "Макс:";
 "Edge:" = "Край:";
-"Padding:" = "Padding:";
-"Margin:" = "Margin:";
+"Padding:" = "Отступ:";
+"Margin:" = "Внешн. отступ:";
 "Radius:" = "Радиус:";
-"Opacity:" = "Видимость:";
+"Opacity:" = "Непрозр.:";
 "Content:" = "Контент:";
 "Cursor:" = "Курсор:";
-"Caret Color:" = "Caret Color:";
-"Weight:" = "Weight:";
+"Caret Color:" = "Цвет курсора:";
+"Weight:" = "Вес:";
 "Align:" = "Выравн.:";
 "Transform:" = "Трансформация:";
-"Decoration:" = "Декорации:";
-"Letter Spacing:" = "Буквенный интервал:";
-"Word Spacing:" = "Промежуток слов:";
-"Indent:" = "Indent:";
+"Decoration:" = "Декорация:";
+"Letter Spacing:" = "Межбукв. инт.:";
+"Word Spacing:" = "Межсловн. инт.:";
+"Indent:" = "Отступ:";
 "Overflow:" = "Overflow:";
 "White Space:" = "White Space:";
-"Font Display:" = "Font Display:";
-"Distance:" = "Distance:";
+"Font Display:" = "Отображение шрифта:";
+"Distance:" = "Расстояние:";
 "Blur:" = "Размытие:";
 "Angle:" = "Угол:";
-"Fill Rule:" = "Fill Rule:";
-"Line Cap:" = "Line Cap:";
-"Justify:" = "Justify:";
-"Wrap:" = "Wrap:";
-"Position:" = "Position:";
-"Float:" = "Float:";
-"Clear:" = "Clear:";
-"Display:" = "Display:";
-"Image:" = "Image:";
-"Repeat:" = "Repeat:";
-"Clip:" = "Clip:";
-"Blend Mode:" = "Blend Mode:";
-"Origin:" = "Origin:";
-"Attachment:" = "Attachment:";
-"Output:" = "Output:";
-"Column:" = "Колонка:";
+"Fill Rule:" = "Правило заливки:";
+"Line Cap:" = "Конец линии:";
+"Justify:" = "Выравнивание:";
+"Wrap:" = "Перенос:";
+"Position:" = "Позиция:";
+"Float:" = "Плавающий:";
+"Clear:" = "Очистка:";
+"Display:" = "Отображение:";
+"Image:" = "Изображение:";
+"Repeat:" = "Повтор:";
+"Clip:" = "Обрезка:";
+"Blend Mode:" = "Режим наложения:";
+"Origin:" = "Происхождение:";
+"Attachment:" = "Прикрепление:";
+"Output:" = "Вывод:";
+"Column:" = "Столбец:";
 "Row:" = "Ряд:";
 "Start:" = "Начало:";
 "End:" = "Конец:";
-"Grid Item" = "Элемент Сетки";
-"Grid Container" = "Контейнер Сетки";
+"Grid Item" = "Grid элемент";
+"Grid Container" = "Grid контейнер";
 
 
 // Class Editor - Tooltips
@@ -1340,13 +1340,12 @@
 
 
 // Option Select Controls
-"Option Select item title." = "Опция Выбрать название элемента."; // Check it
-"Option Select item value." = "Опция Выбрать значение элемента."; // Check it
-"Add new Option Select item." = "Добавить новую опцию Выберите элемент."; // Check it
-"Remove Option Select item." = "Удалить опцию Выберите элемент."; // Check it
-"Option Select Settings." = "Выбор опции настройки."; // Check it
+"Option Select item title." = "Название элемента выбора опции.";
+"Option Select item value." = "Значение элемента выбора опции.";
+"Add new Option Select item." = "Добавить новый элемент выбора опции.";
+"Remove Option Select item." = "Удалить элемент выбора опции.";
+"Option Select Settings." = "Настройки выбора опции.";
 "Value:" = "Значение:";
-
 
 // Duplicate Bloc
 "Destination:" = "Место назначения:";
@@ -1659,22 +1658,22 @@
 "Inherited" = "наслед.";
 
 // Project Settings Checkbox Labels
-"Enable Google Fonts" = "Включить Google шрифт.";
-"Enable Image Protection Site Wide" = "Включить защиту от копирования картинок";
-"Enable Preloader" = "Включить предзагрузчик страницы";
-"Disable animation on SM & XS breakpoints" = "Отключить анимации на SM и XS устройствах";
-"Include WP admin bar on site" = "Include WP admin bar on site";
-"Add support for featured images on pages" = "Add support for featured images on pages";
-"Include logo customizer theme option" = "Include logo customizer theme option";
-"Include colour customizer theme option" = "Включить опцию настройки цвета темы";
-"Automatic page generator function" = "Automatic page generator function";
+"Enable Google Fonts" = "Включить Google шрифты.";
+"Enable Image Protection Site Wide" = "Включить защиту изображений на сайте.";
+"Enable Preloader" = "Включить предзагрузчик страницы.";
+"Disable animation on SM & XS breakpoints" = "Отключить анимацию на SM и XS устройствах.";
+"Include WP admin bar on site" = "Включить панель администратора WP на сайте.";
+"Add support for featured images on pages" = "Добавить поддержку миниатюр на страницах.";
+"Include logo customizer theme option" = "Включить опцию настройки логотипа темы.";
+"Include colour customizer theme option" = "Включить опцию настройки цвета темы.";
+"Automatic page generator function" = "Функция автоматической генерации страниц.";
 
 // Project Settings Button Labels
 "Select Export Location..." = "Выбрать путь экспорта...";
 
 // Project Settings Tooltips
 "Set the default export location for this project." = "Установите местоположение экспорта по умолчанию для этого проекта.";
-"Clear current color value." = "Очистите текущее цветовое значение."; // Check it
+"Clear current color value." = "Очистить текущее цветовое значение.";
 "Add file attachment to project." = "Добавить вложение файла в проект.";
 "Remove file attachment from project." = "Удалить вложение из проекта.";
 
@@ -1705,9 +1704,9 @@
 // Page Settings Titles
 "Page Settings" = "Настройки страницы";
 "SEO" = "SEO";
-"Social Cards" = "Социальные Карточки";
-"Page File Attachments" = "Вложения файлов страницы"; // Check it
-"Page Attachments" = "Вложения страницы"; // Check it
+"Social Cards" = "Карты соц. сетей.";
+"Page File Attachments" = "Вложения файлов страницы";
+"Page Attachments" = "Вложения страницы";
 
 // Page UI Labels Titles
 "Page Name:" = "Имя страницы:";
@@ -1720,7 +1719,7 @@
 "Browser Title:" = "Заголовок:";
 "Description:" = "Описание:";
 "Robots:" = "Robots:";
-"Misc:" = "Доп.:"; // Check it
+"Misc:" = "Доп.:";
 "Title:" = "Заголовок:";
 "Card:" = "Соц. сеть:";
 "Preview:" = "Предпросмотр:";
@@ -1996,8 +1995,8 @@
 "Greeting" = "Приветствие";
 "Success" = "Успешно";
 "Fail" = "Ошибка";
-"Edit File" = "Редактировать файл"; // Check it
-"Edit Code" = "Редактировать код"; // Check it
+"Edit File" = "Редактировать файл";
+"Edit Code" = "Редактировать код";
 "Open Select Editor" = "Open Select Editor";
 "Items" = "Items";
 "Layout" = "Layout";
@@ -2345,7 +2344,7 @@
 
 // Langauge Settings
 "Would you like to update this setting for all pages?" = "Вы хотите обновить этот параметр для всех страниц?";
-"Update Page Settings" = "Обновить настройки страницы"; // Check it
+"Update Page Settings" = "Обновить настройки страницы";
 "Yes, update all pages." = "Да, обновить все страницы.";
 
 
@@ -2497,7 +2496,7 @@
 "Preview Type:" = "Тип:";
 "Preview Port:" = "Порт:";
 "Local Server" = "Локальный сервер";
-"File Preview" = "Предпросмотр файла"; // Check it
+"File Preview" = "Предпросмотр файла";
 "Reset Notifications" = "Сбросить уведомления";
 "Reset to Default" = "Сброить по умолчанию";
 "Max Backups:" = "Максимально копий:";
@@ -2530,12 +2529,12 @@
 // Prefs Checkbox Titles
 "Automatically check for updates" = "Автоматическая проверка обновлений";
 "Enable canvas auto zoom" = "Включить автозум холста";
-"Enable canvas broadcasting" = "Включить подсказки на холсте"; // Check it
-"Enable stylus canvas controls" = "Включить элементов управления холстом с помощью стилуса.";
-"Enable Asset Manger preview in-place" = "Включить предварительный просмотр в Менеджере Вложений"; // Check it
-"Enable Asset Manager scroll to asset" = "Включить прокрутку к вложению в Менеджере Вложений"; // Check it
-"Auto embed project assets in new project" = "Автоматически встраивать вложения";
-"Enable API Developer Mode" = "Включить API Режима разработчика";
+"Enable canvas broadcasting" = "Включить подсказки на холсте";
+"Enable stylus canvas controls" = "Включить элементы управления холстом с помощью стилуса";
+"Enable Asset Manager preview in-place" = "Включить предварительный просмотр в Менеджере Вложений";
+"Enable Asset Manager scroll to asset" = "Включить прокрутку к вложению в Менеджере Вложений";
+"Auto embed project assets in new project" = "Автоматически встраивать вложения в файл проекта";
+"Enable API Developer Mode" = "Включить API-Режим разработчика";
 "Enable Drop Mode (Legacy)" = "Включить Drop Mode (Legacy)";
 "Enable haptic feedback" = "Включить тактильную отдачу";
 "Play app sounds effects" = "Проигрывать звуковые эффекты";
