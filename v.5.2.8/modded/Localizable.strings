@@ -1055,13 +1055,13 @@
 "Outside" = "Снаружи";
 
 // Wordpress Data Manager
-"Custom Post Types" = "Пользовательские типы постов";
-"Custom Fields Types" = "Типы пользовательских полей";
-"A custom post with this name already exists." = "Пользовательский пост с таким именем уже существует.";
-"A custom field with this name already exists." = "Пользовательское поле с таким именем уже существует.";
-"A customizer item with this name already exists." = "Элемент настройки с таким именем уже существует.";
-"The singular custom post type name." = "The singular custom post type name.";
-"The multiple custom post type name." = "The multiple custom post type name.";
+"Custom Post Types" = "Кастомный типы постов";
+"Custom Field Types" = "Кастомный тип поля";
+"A custom post with this name already exists." = "Кастомный пост с таким именем уже существует.";
+"A custom field with this name already exists." = "Кастомный поле с таким именем уже существует.";
+"A customizer item with this name already exists." = "Настроенный элемент с таким именем уже существует.";
+"The singular custom post type name." = "Единственное название кастомного типа записи.";
+"The multiple custom post type name." = "Множественное название кастомного типа записи.";
 "The custom post type description." = "Своё описание поста.";
 "The icon used for the custom post type in the Wordpress admin." = "Значок, используемый для пользовательского типа поста в админке Wordpress.";
 "The position that the custom post menu will display in the Wordpress admin." = "Позиция, в которой пользовательское меню будет отображаться в админке Wordpress.";
